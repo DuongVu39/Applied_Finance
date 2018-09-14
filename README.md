@@ -9,5 +9,5 @@ Sep, 2018
 
 Exploring the Stock Returns of two big tech company: Amazon and Facebook and compare them with the benchmark: S&P 500 Index.
 
-![](assets/stocks_prices.PNG)
+![](The_Sharpe_Ratio/assets/stocks_prices.PNG)
 
